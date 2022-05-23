@@ -10,7 +10,7 @@
 #### Blogs
 [Alex Tardiff ](https://alextardif.com/index.html)  
 [3D graphics Engine programing](https://www.3dgep.com/)  
-[DX12 Programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)  
+[MSDN DX12 Programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)  
 [Jendri Killner](https://www.jendrikillner.com/)  
 
 #### Links
