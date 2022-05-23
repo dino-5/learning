@@ -27,9 +27,9 @@
 [C++ Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
 
 #### Videos
-[ ] [CppCon embrace](https://www.youtube.com/watch?v=bbbcZd4cuxg&ab_channel=CppCon)
-[ ] [CppCon Data-oriented design](https://www.youtube.com/watch?v=rX0ItVEVjHc&t=65s)
-[ ] [CppCon Allocators](https://www.youtube.com/watch?v=nZNd5FjSquk&t=2785s)
+[CppCon embrace](https://www.youtube.com/watch?v=bbbcZd4cuxg&ab_channel=CppCon)
+[CppCon Data-oriented design](https://www.youtube.com/watch?v=rX0ItVEVjHc&t=65s)
+[CppCon Allocators](https://www.youtube.com/watch?v=nZNd5FjSquk&t=2785s)
 
 ### Math for CS
 [GameMath book](https://gamemath.com/book/)
