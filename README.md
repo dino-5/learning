@@ -17,10 +17,12 @@
 [Directx-Samples Github](https://github.com/microsoft/DirectX-Graphics-Samples)  
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
 [Tracy](https://github.com/wolfpld/tracy)  
+[Gpu-Open](https://gpuopen.com/performance/)  
 
 ### Github repos
 [Frank Luna Dx12](https://github.com/yottaawesome/intro-to-dx12)  
 [Game Theory Coursera](https://github.com/liuhh02/game-theory-coursera)  
+[D3D12 Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator)  
 
 ### C++
 [Comprehensive book list with CS/C++/Graphics](https://github.com/miloyip/game-programmer)  
