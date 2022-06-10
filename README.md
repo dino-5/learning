@@ -10,13 +10,13 @@
 #### Blogs
 [Alex Tardiff ](https://alextardif.com/index.html)  
 [3D graphics Engine programing](https://www.3dgep.com/)  
-[MSDN DX12 Programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)  
 [Jendri Killner](https://www.jendrikillner.com/)  
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
 [Tracy](https://github.com/wolfpld/tracy)  
 [Gpu-Open](https://gpuopen.com/performance/)  
+[MSDN DX12 Programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)   
 
 ### Github repos
 [Frank Luna Dx12](https://github.com/yottaawesome/intro-to-dx12)  
