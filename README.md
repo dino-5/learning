@@ -14,7 +14,6 @@
 [Jendri Killner](https://www.jendrikillner.com/)  
 
 #### Links
-[Directx-Samples Github](https://github.com/microsoft/DirectX-Graphics-Samples)  
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
 [Tracy](https://github.com/wolfpld/tracy)  
 [Gpu-Open](https://gpuopen.com/performance/)  
@@ -23,6 +22,7 @@
 [Frank Luna Dx12](https://github.com/yottaawesome/intro-to-dx12)  
 [Game Theory Coursera](https://github.com/liuhh02/game-theory-coursera)  
 [D3D12 Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator)  
+[Directx-Samples Github](https://github.com/microsoft/DirectX-Graphics-Samples)    
 
 ### C++
 [Comprehensive book list with CS/C++/Graphics](https://github.com/miloyip/game-programmer)  
