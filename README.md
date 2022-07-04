@@ -11,6 +11,7 @@
 [Alex Tardiff ](https://alextardif.com/index.html)  
 [3D graphics Engine programing](https://www.3dgep.com/)  
 [Jendri Killner](https://www.jendrikillner.com/)  
+[FasterThanLife (Vulkan renderer)](https://www.fasterthan.life/blog)   
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
