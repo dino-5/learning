@@ -28,6 +28,7 @@
 ### C++
 [Comprehensive book list with CS/C++/Graphics](https://github.com/miloyip/game-programmer)  
 [C++ Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)  
+[ISOcpp.org](https://isocpp.org/wiki/faq)  
 
 #### Videos
 [CppCon embrace](https://www.youtube.com/watch?v=bbbcZd4cuxg&ab_channel=CppCon)  
