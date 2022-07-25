@@ -12,6 +12,7 @@
 [3D graphics Engine programing](https://www.3dgep.com/)  
 [Jendri Killner](https://www.jendrikillner.com/)  
 [FasterThanLife (Vulkan renderer)](https://www.fasterthan.life/blog)   
+[Pete Shirley's Graphics Blog](http://psgraphics.blogspot.com/)    
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
