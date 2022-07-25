@@ -2,6 +2,7 @@
 
 ## **Useful** links
 [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+[Filament docs](https://google.github.io/filament/Filament.html)   
 
 ## Graphics 
 
@@ -12,7 +13,7 @@
 [3D graphics Engine programing](https://www.3dgep.com/)  
 [Jendri Killner](https://www.jendrikillner.com/)  
 [FasterThanLife (Vulkan renderer)](https://www.fasterthan.life/blog)   
-[Pete Shirley's Graphics Blog](http://psgraphics.blogspot.com/)    
+[Pete Shirley's Graphics Blog](http://psgraphics.blogspot.com/)       
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
@@ -25,6 +26,7 @@
 [Game Theory Coursera](https://github.com/liuhh02/game-theory-coursera)  
 [D3D12 Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator)  
 [Directx-Samples Github](https://github.com/microsoft/DirectX-Graphics-Samples)    
+[Filament](https://github.com/google/filament)   
 
 ### C++
 [Comprehensive book list with CS/C++/Graphics](https://github.com/miloyip/game-programmer)  
