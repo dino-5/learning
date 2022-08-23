@@ -34,6 +34,9 @@
 [C++ Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)  
 [ISOcpp.org](https://isocpp.org/wiki/faq)  
 
+### Articles
+[Cpp cheat-sheets](https://hackingcpp.com/cpp/cheat_sheets.html#hfold8a)
+
 #### Videos
 [CppCon embrace](https://www.youtube.com/watch?v=bbbcZd4cuxg&ab_channel=CppCon)  
 [CppCon Data-oriented design](https://www.youtube.com/watch?v=rX0ItVEVjHc&t=65s)  
