@@ -35,7 +35,8 @@
 [ISOcpp.org](https://isocpp.org/wiki/faq)  
 
 ### Articles
-[Cpp cheat-sheets](https://hackingcpp.com/cpp/cheat_sheets.html#hfold8a)
+[Cpp cheat-sheets](https://hackingcpp.com/cpp/cheat_sheets.html#hfold8a)  
+[Graphics pipeline organization](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)  
 
 #### Videos
 [CppCon embrace](https://www.youtube.com/watch?v=bbbcZd4cuxg&ab_channel=CppCon)  
