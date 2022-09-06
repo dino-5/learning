@@ -15,7 +15,8 @@
 [FasterThanLife (Vulkan renderer)](https://www.fasterthan.life/blog)   
 [Pete Shirley's Graphics Blog](http://psgraphics.blogspot.com/)   
 [Pete Shirley's Cite](https://www.petershirley.com/home)   
-[Epic Games https://twitter.com/BrianKaris](http://graphicrants.blogspot.com/)   
+[Epic Games https://twitter.com/BrianKaris](http://graphicrants.blogspot.com/)  
+[Wicked Engine: physics + graphics](https://wickedengine.net/)    
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
