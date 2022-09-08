@@ -1,7 +1,7 @@
 # learning
 
 ## **Useful** links
-[Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+[Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)   
 [Filament docs](https://google.github.io/filament/Filament.html)   
 
 ## Graphics 
