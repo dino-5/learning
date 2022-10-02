@@ -36,6 +36,7 @@
 [Comprehensive book list with CS/C++/Graphics](https://github.com/miloyip/game-programmer)  
 [C++ Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)  
 [ISOcpp.org](https://isocpp.org/wiki/faq)  
+[Vittorio Romeo](https://vittorioromeo.info/index.html)   
 
 ### Articles
 [Cpp cheat-sheets](https://hackingcpp.com/cpp/cheat_sheets.html#hfold8a)  
