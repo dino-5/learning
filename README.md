@@ -18,6 +18,7 @@
 [Epic Games https://twitter.com/BrianKaris](http://graphicrants.blogspot.com/)  
 [Wicked Engine: physics + graphics](https://wickedengine.net/)    
 [Michael Moroz](https://michaelmoroz.github.io/)    
+[Joren Joestar](https://jorenjoestar.github.io/)    
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
