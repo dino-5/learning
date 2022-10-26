@@ -32,6 +32,7 @@
 [D3D12 Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator)  
 [Directx-Samples Github](https://github.com/microsoft/DirectX-Graphics-Samples)    
 [Filament](https://github.com/google/filament)   
+[Yocto-gl Tiny C++ Libraries for Data-Oriented Physically-based Graphics](https://xelatihy.github.io/yocto-gl/)   
 
 ### C++
 [Comprehensive book list with CS/C++/Graphics](https://github.com/miloyip/game-programmer)  
