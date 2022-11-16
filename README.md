@@ -51,6 +51,7 @@
 
 ### Math for CS
 [GameMath book](https://gamemath.com/book/)  
+[Words and buttond](https://wordsandbuttons.online/)   
 
 ### Cources
 [Game Theory pt.1](https://www.coursera.org/learn/game-theory-1/home/welcome)  
