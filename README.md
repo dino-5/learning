@@ -19,6 +19,7 @@
 [Wicked Engine: physics + graphics](https://wickedengine.net/)    
 [Michael Moroz](https://michaelmoroz.github.io/)    
 [Joren Joestar](https://jorenjoestar.github.io/)    
+[Elopezr](https://www.elopezr.com/)   
 
 #### Links
 [ScratchPixel](https://www.scratchapixel.com/index.php)  
